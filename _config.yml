@@ -1,0 +1,28 @@
+name: bighorn
+favicon: null
+layout_spectrum: 0.39218094968236983
+typography_spectrum: 0.15000323578715324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9478273610584438
+  lightness: 0.46424382575787604
+  saturation: 0.20116844098083675
+  rhythmicContrast: 0.8642950826324522
+purpose: []
