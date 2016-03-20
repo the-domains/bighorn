@@ -1,28 +1,40 @@
-name: bighorn
-favicon: null
-layout_spectrum: 0.39218094968236983
-typography_spectrum: 0.15000323578715324
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9478273610584438
-  lightness: 0.46424382575787604
-  saturation: 0.20116844098083675
-  rhythmicContrast: 0.8642950826324522
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3799283
+  brandStrength: 0.9478273610584438
+  lightness: 0.6415771
+  brandColors:
+    - '#1F1C19'
+    - '#3079A2'
+    - '#FCF2DF'
+    - '#918877'
+    - '#6EB4D8'
+  rhythmicContrast: 0.5985663
+typography_spectrum: 0.4587814
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: bighorn
